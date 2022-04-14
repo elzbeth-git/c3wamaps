@@ -235,7 +235,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/github.com\/elzbeth-git\/c3wamaps\/blob\/main\/MP3\/PeterchensMondfahrt.mp3"
+                 "value":"MP3\/PeterchensMondfahrt.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
