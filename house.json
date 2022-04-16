@@ -702,7 +702,7 @@
         {
          "columns":10,
          "firstgid":4361,
-         "image":"..\/pg-space\/tilesets\/coco-items.png",
+         "image":"tilesets\/coco-items.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
